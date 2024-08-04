@@ -1,6 +1,6 @@
 # flutter_native_demo
 
-A native flutter plugin project demo.
+Note, It don't work.
 
 ## Getting Started
 # Flutter 使用 dart:ffi 调用 C/C++ 的插件的开发 （支持 windows、macos、ios、android ）
